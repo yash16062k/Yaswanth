@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Yaswanth Swarna
 
-I’m a passionate Software Engineer with 4+ years of experience in building secure full-stack applications and automating cybersecurity workflows. I enjoy working at the intersection of **Python development**, **security engineering**, and **data analytics** to build systems that are not only functional but also secure and insightful.
+I’m a passionate Software Engineer in building secure full-stack applications and automating cybersecurity workflows. I enjoy working at the intersection of **Python development**, **security engineering**, and **data analytics** to build systems that are not only functional but also secure and insightful.
 
 Right now, I’m focusing on developing backend services using **Flask**, **FastAPI**, and **Spring Boot**, while using **React.js** for building clean and responsive frontends. I’ve also been working a lot with tools like **Okta**, **Burp Suite**, **ZAP**, and **Active Directory** to streamline IAM and vulnerability management.
 
